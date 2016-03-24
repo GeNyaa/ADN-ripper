@@ -1,4 +1,5 @@
 <?php
+  // original writer https://github.com/K-S-V just updated the constants and start to make it work again.
   if ($argc < 2)
       die("Usage: php AnimeDigital.php <encrypted_subtitles>");
   // Read encrypted subtitles
